@@ -1,0 +1,1 @@
+# samba_ad_docker
